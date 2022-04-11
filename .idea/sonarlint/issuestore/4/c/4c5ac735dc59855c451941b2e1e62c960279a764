@@ -1,0 +1,40 @@
+
+K
+java:S3740Ô"/Provide the parametrized type for this generic.(’·†ÿÿÿÿÿ
+r
+java:S3077T"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¿™ÜÎøÿÿÿÿ
+P	java:S899ù":Do something with the "boolean" value returned by "offer".(İª…ó
+2
+java:S3626§"Remove this redundant jump.(ÉŠ©ƒ
+F
+java:S3740›"/Provide the parametrized type for this generic.(Ëæ¢‘
+S
+java:S2629¹"7Use the built-in formatting to construct this argument.(“íçÿÿÿÿÿ
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷êÇ»
+X
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(©—Ø
+i
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(°ÃƒÔ
+A
+java:S1181ˆ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+9
+java:S2189„""Add an end condition to this loop.(´ÿÕ™
+K
+java:S3740‚"/Provide the parametrized type for this generic.(éÅ¯üÿÿÿÿ
+o	java:S135›"YReduce the total number of break and continue statements in this loop to use at most one.(Ëæ¢‘
+J
+java:S3740V"/Provide the parametrized type for this generic.(·¤ğùÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(ÕŒãÔúÿÿÿÿ
+]
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(“íçÿÿÿÿÿ
+t	java:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(¦¼¬›ıÿÿÿÿ
+Q
+java:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181³"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+K
+java:S1066ô"/Merge this if statement with the enclosing one.(’³¹Ğúÿÿÿÿ
+A
+java:S1181©"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

@@ -1,0 +1,41 @@
+
+_
+java:S1192"HDefine a constant instead of duplicating this literal "datumId" 4 times.(¹ £õ
+c
+java:S1192“"LDefine a constant instead of duplicating this literal "config_tags" 3 times.(öÈøÒ
+n
+java:S1192 "WDefine a constant instead of duplicating this literal "remove beta data error" 4 times.(ŠäÒá
+a
+java:S1192˜"JDefine a constant instead of duplicating this literal "succCount" 9 times.(×©©Æ
+[	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ê®õr
+[	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(Ê®õr
+F
+java:S5411‹"*Use the primitive boolean expression here.(õãíÿÿÿÿÿ
+[
+java:S1226‰"DIntroduce a new variable instead of reusing the parameter "srcUser".(Ãÿ½ï
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÕŠ
+o
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùô¸&
+
+java:S1130´"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±
+A
+java:S1181À"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¡§©
+o
+java:S2139í"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëı°
+o
+java:S2139ˆ"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Óáéşÿÿÿÿ
+p
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÚ€
+u
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(°‘ó¬ùÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ó¤Ÿ÷üÿÿÿÿ
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ûò†Üúÿÿÿÿ

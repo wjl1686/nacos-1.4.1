@@ -1,0 +1,25 @@
+
+P
+java:S3516Œ"9Refactor this method to not always return the same value.(‡Â£ı
+E
+java:S37403"/Provide the parametrized type for this generic.(²Å›¸
+E
+java:S37403"/Provide the parametrized type for this generic.(²Å›¸
+E
+java:S3740H"/Provide the parametrized type for this generic.(“¿²”
+F
+java:S3740°"/Provide the parametrized type for this generic.(åÃ…
+s
+java:S14501"XRemove the "eventType" field and declare it as a local variable in the relevant methods.(ßÏí½ûÿÿÿÿ
+I
+java:S3416+"3Update this logger to use "DefaultPublisher.class".(‰ğŞ®
+@
+java:S1181x"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+0
+java:S3457y"Not enough arguments.(³“£§ùÿÿÿÿ
+A
+java:S1181Ñ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+,
+java:S3457Ò"Not enough arguments.(à²Ï»
+H
+java:S10681"-Remove this unused "eventType" private field.(ßÏí½ûÿÿÿÿ

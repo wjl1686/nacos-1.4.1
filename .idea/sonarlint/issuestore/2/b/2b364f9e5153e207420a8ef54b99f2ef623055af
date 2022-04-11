@@ -1,0 +1,36 @@
+
+E
+java:S1948S"*Make "selector" transient or serializable.(µ«üÂıÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(•êÛ‡øÿÿÿÿ
+a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(å¾€³øÿÿÿÿ
+H
+java:S1135a"2Complete the task associated to this TODO comment.(°Ã¨Ë
+]
+java:S3457Œ"AFormat specifiers should be used instead of string concatenation.(áíÏÊüÿÿÿÿ
+u
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÁäÕúÿÿÿÿ
+F
+java:S5411ö"*Use the primitive boolean expression here.(ôª–§ùÿÿÿÿ
+:
+java:S2629ş"$Invoke method(s) only conditionally.(ìÔ
+a
+java:S2184Z"FCast one of the operands of this multiplication operation to a "long".(’ÆÇ¬ÿÿÿÿÿ
+A
+java:S5411ü"*Use the primitive boolean expression here.(î¤ëĞ
+}
+java:S3457Ÿ"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ç¯Û£şÿÿÿÿ
+@
+java:S2629Ÿ"$Invoke method(s) only conditionally.(Ç¯Û£şÿÿÿÿ
+(
+java:S2176?"Rename this class.(¢”×³
+P
+java:S1948D"5Make "clientBeatCheckTask" transient or serializable.(éš×³ÿÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÑL
+I
+java:S1068c"3Remove this unused "pushCacheMillis" private field.(ØŒÜÙ
+X
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(İ“¤ü
+a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(¾º·÷øÿÿÿÿ
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(¼şàÌÿÿÿÿÿ

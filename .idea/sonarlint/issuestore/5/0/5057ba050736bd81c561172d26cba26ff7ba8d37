@@ -1,0 +1,11 @@
+
+:
+java:S2629y"$Invoke method(s) only conditionally.(äïÎ¡
+J
+java:S1066]"/Merge this if statement with the enclosing one.(µ¨¼Ãÿÿÿÿÿ
+E
+java:S1066\"/Merge this if statement with the enclosing one.(Áý–©
+—
+java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ö›n
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“–ýþ

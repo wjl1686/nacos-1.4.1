@@ -1,0 +1,48 @@
+
+D
+java:S1123À"(Add the missing @deprecated Javadoc tag.(Ù·îúÿÿÿÿ
+Z
+java:S1155õ">Use isEmpty() to check whether the collection is empty or not.(Ö·í¬ûÿÿÿÿ
+@
+java:S2629"$Invoke method(s) only conditionally.(ÕİÁùşÿÿÿÿ
+}
+java:S3457ˆ"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(‡³¿³úÿÿÿÿ
+a
+java:S1128"?Remove this unused import 'com.mysql.cj.x.protobuf.MysqlxCrud'.(ÚÔšşÿÿÿÿ8ÍÀ„¿‘/
+V	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¹ï»8Ş€‚¿‘/
+}
+java:S3457‰"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ì­‹ëøÿÿÿÿ
+w
+java:S3457’"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(’Ë«'
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(­åìÕşÿÿÿÿ
+Q
+java:S1133À"5Do not forget to remove this deprecated code someday.(Ù·îúÿÿÿÿ
+@
+java:S2629ˆ"$Invoke method(s) only conditionally.(‡³¿³úÿÿÿÿ
+x
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ò‚¨¶
+n
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÍîŠúÿÿÿÿ
+h
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(°Üõ
+-
+java:S2176)"Rename this class.(’ùº€şÿÿÿÿ
+F
+java:S1066Õ"/Merge this if statement with the enclosing one.(¢¥® 
+o
+java:S2975Ö"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ƒ¢‰€ÿÿÿÿÿ
+;
+java:S2629"$Invoke method(s) only conditionally.(Ò‚¨¶
+:
+java:S2629’"$Invoke method(s) only conditionally.(’Ë«'
+Z
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(ü‰¼¿üÿÿÿÿ
+]
+java:S1128"@Remove this unused import 'org.apache.commons.lang3.ArrayUtils'.(ªğô†8áë½‘/
+A
+java:S19489"+Make "checkTask" transient or serializable.(šÜ§â
+}
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÕİÁùşÿÿÿÿ
+}
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÕİÁùşÿÿÿÿ

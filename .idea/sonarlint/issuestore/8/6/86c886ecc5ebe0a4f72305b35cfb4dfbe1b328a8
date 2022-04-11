@@ -1,0 +1,74 @@
+
+K
+java:S2864”"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶
+K
+java:S3740Ó"/Provide the parametrized type for this generic.(–Šëşÿÿÿÿ
+U
+java:S1155â">Use isEmpty() to check whether the collection is empty or not.(Ş…–Ö
+K
+java:S2864†"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“–ış
+t	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(‡×¢ÿÿÿÿÿ
+L
+java:S1874¯"0Remove this use of "RaftPeer"; it is deprecated.(±æŸ»ıÿÿÿÿ
+K
+java:S2864ó"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶
+K
+java:S2864¡"4Iterate over the "entrySet" instead of the "keySet".(‹šô¤
+s
+java:S1104ë"WMake namespaceId a static final constant or non-public and provide accessors if needed.(ïÃØşÿÿÿÿ
+N
+java:S1874v"3Remove this use of "RaftPeerSet"; it is deprecated.(ƒ¥ç‘şÿÿÿÿ
+K
+java:S2864™"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(ãøŞÒúÿÿÿÿ
+X
+java:S3457ø"AFormat specifiers should be used instead of string concatenation.(µ´òÃ
+>
+java:S2189ƒ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Q
+java:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S135Ú"YReduce the total number of break and continue statements in this loop to use at most one.(êï®
+w
+java:S1104í"`Make serviceName2Checksum a static final constant or non-public and provide accessors if needed.(÷ÿÀâ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ış
+I
+java:S1874f"3Remove this use of "RaftPeerSet"; it is deprecated.(÷òñ
+K
+java:S2864‘"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶
+{
+java:S1192ú"_Define a constant instead of duplicating this literal "service not found, namespace: " 3 times.(éˆÈ¦úÿÿÿÿ
+@
+java:S2629õ"$Invoke method(s) only conditionally.(¬ì³íşÿÿÿÿ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‡Ôé†ûÿÿÿÿ
+P	java:S899­":Do something with the "boolean" value returned by "offer".(Î€¡˜
+S
+java:S2629å"7Use the built-in formatting to construct this argument.(Í™ßÑÿÿÿÿÿ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(øÛĞ
+P
+java:S2864È"4Iterate over the "entrySet" instead of the "keySet".(È†à¢úÿÿÿÿ
+:
+java:S2629¥"$Invoke method(s) only conditionally.(ìÔ
+h
+java:S1192ú"LDefine a constant instead of duplicating this literal ", service: " 4 times.(éˆÈ¦úÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(ïööÂıÿÿÿÿ
+A
+java:S1181Ş"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+x
+java:S3457æ"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Şİ‚š
+o	java:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(Àˆ®—
+E
+java:S3740‹"/Provide the parametrized type for this generic.(åÁò
+m	java:S127Ğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+X
+java:S3457ä"AFormat specifiers should be used instead of string concatenation.(ûåÕÜ
+@
+java:S2629ø"$Invoke method(s) only conditionally.(ƒ½Ò·ıÿÿÿÿ
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÿÀâ
+C
+java:S1612î",Replace this lambda with a method reference.(£ŠŠ¯

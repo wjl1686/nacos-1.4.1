@@ -1,0 +1,51 @@
+
+O
+java:S14441"4Make this "public static ringBufferSize" field final(Œî©´ıÿÿÿÿ
+K
+java:S14443"5Make this "public static shareBufferSize" field final(€¿ÆÚ
+E
+java:S3740¬"/Provide the parametrized type for this generic.(Ö”Ô!
+K
+java:S3740Ë"/Provide the parametrized type for this generic.(¾ù«ÿÿÿÿÿ
+F
+java:S3740Û"/Provide the parametrized type for this generic.(ËÄ€
+F
+java:S3740ú"/Provide the parametrized type for this generic.(ëÀ¨
+u
+java:S11041"ZMake ringBufferSize a static final constant or non-public and provide accessors if needed.(Œî©´ıÿÿÿÿ
+q
+java:S11043"[Make shareBufferSize a static final constant or non-public and provide accessors if needed.(€¿ÆÚ
+@
+java:S1181_"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+I
+java:S1874\"3Remove this use of "newInstance"; it is deprecated.(€É»Ş
+s
+java:S2139_"XEither log this exception and handle it, or rethrow it with some contextual information.(À˜§üÿÿÿÿ
+0
+java:S3457`"Not enough arguments.(ö£ ©ùÿÿÿÿ
+@
+java:S1181l"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+0
+java:S3457m"Not enough arguments.(ö£ ©ùÿÿÿÿ
+A
+java:S1181—"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+1
+java:S3457˜"Not enough arguments.(â¥ğöıÿÿÿÿ
+A
+java:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+,
+java:S3457Ÿ"Not enough arguments.(ĞÄŠš
+2
+java:S2326¬"T is not used in the method.(Ö”Ô!
+3
+java:S2326Û"T is not used in the method.(ËÄ€
+A
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+1
+java:S3457"Not enough arguments.(‡ ”Ÿùÿÿÿÿ
+G
+java:S1172¯"0Remove this unused method parameter "eventType".(¨ù€î
+A
+java:S1181Ğ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+1
+java:S3457Ñ"Not enough arguments.(îá½‰ıÿÿÿÿ

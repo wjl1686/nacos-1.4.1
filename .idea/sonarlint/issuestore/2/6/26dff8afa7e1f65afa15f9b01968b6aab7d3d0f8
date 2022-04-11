@@ -1,0 +1,40 @@
+
+C
+java:S1604^"(Make this anonymous inner class a lambda(Ô·Ñúÿÿÿÿ
+\	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(âì¤û
+]
+java:S1192º"FDefine a constant instead of duplicating this literal "1.0.0" 4 times.(°§İâ
+_
+java:S1192ß"HDefine a constant instead of duplicating this literal "healthy" 4 times.(½İˆü
+\	java:S112û"FDefine and throw a dedicated exception instead of using a generic one.(¬È¯
+g
+java:S1192m"LDefine a constant instead of duplicating this literal "cacheMillis" 4 times.(‘ë®Àúÿÿÿÿ
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(î¿‘‚şÿÿÿÿ
+e
+java:S1192ı"IDefine a constant instead of duplicating this literal "clusters" 4 times.(Š¥ÛÊşÿÿÿÿ
+\	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(ä¨ç
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(ï¼Ëâøÿÿÿÿ
+B
+java:S1168§"+Return an empty collection instead of null.(¥¹ï
+b
+java:S1192®"FDefine a constant instead of duplicating this literal "hosts" 3 times.(†âÉøÿÿÿÿ
+c
+java:S3252‹"LUse static access with "com.alibaba.nacos.api.common.ResponseCode" for "OK".(âøÉŠ
+_
+java:S1192ã"HDefine a constant instead of duplicating this literal "enabled" 3 times.(¶ºÖÿ
+c
+java:S1192Û"GDefine a constant instead of duplicating this literal "weight" 4 times.(øÔ©Êÿÿÿÿÿ
+X	java:S107"=Method has 11 parameters, which is greater than 7 authorized.(Í—Şúÿÿÿÿ
+A
+java:S5411û"*Use the primitive boolean expression here.(Ñ»æ×
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ÍÎÆ¥ùÿÿÿÿ8¯¿Õ³‘/
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Í—Şúÿÿÿÿ
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Ç‹¢âøÿÿÿÿ
+a	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(’èäéşÿÿÿÿ
+a	java:S112Ã"FDefine and throw a dedicated exception instead of using a generic one.(Ù˜‰œûÿÿÿÿ
+e
+java:S1192Ù"IDefine a constant instead of duplicating this literal "metadata" 8 times.(Á¤×ùÿÿÿÿ
+A
+java:S5411ú"*Use the primitive boolean expression here.(é°ì
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(Éì…Çøÿÿÿÿ
